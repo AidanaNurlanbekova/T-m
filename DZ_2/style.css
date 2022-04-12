@@ -1,0 +1,12 @@
+body{
+    margin: 100px;
+    padding: 100px;
+    background: #d177e7;
+}
+button{
+    background: #c4a4d2;
+    border-radius: 10px;
+    border: none;
+    margin-right: 10px;
+    padding: 10px;
+}
