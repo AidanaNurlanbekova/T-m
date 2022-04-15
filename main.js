@@ -28,6 +28,7 @@ const products = [
         name: "Samsung",
         price: 5000,
         imgUrl: "img/ap.png"
+        // adfs
     }
 ]
 
